@@ -1,11 +1,11 @@
 # Mirroring the Class GitHub Repository
 
 This semester many class assignments are hosted in a GitHub repository.
-Individual assignments are in subfolders. Within the folder for every
+Individual assignments are in subfolders.  Within the folder for every
 assignment is a `README.md` file, containing the description for the
-assignment. The folder also contains other files that are part of the
-assignment. The description of the assignment is often best viewed with a Web
-browser. The accompanying files can be downloaded directly from the folder,
+assignment.  The folder also contains other files that are part of the
+assignment.  The description of the assignment is often best viewed with a Web
+browser.  The accompanying files can be downloaded directly from the folder,
 with a Web browser. However, creating a _mirror_ of the repository helps you to
 more easily download files associated with assignments, keep them up-to-date,
 and simultaneously version your own code by committing it to your own private
@@ -13,8 +13,9 @@ GitHub repository.
 
 The names of the class "upstream" repository and your own "private" repository
 will be given to you elsewhere and will be referred to in this document as
-"CLASS_REPO_NAME" and "PRIVATE_REPO_NAME", respectively. Additionally,
+"CLASS\_REPO\_NAME" and "PRIVATE\_REPO\_NAME", respectively.  Additionally,
 "USERNAME" refers to your GitHub username.
+
 
 ## Registering an SSH Key for Use with GitHub
 
