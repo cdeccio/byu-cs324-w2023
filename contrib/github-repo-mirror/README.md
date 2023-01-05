@@ -83,7 +83,7 @@ this again.
 ## Create a Mirrored Version of the GitHub Class Repository
 
 This is a one-time process to create and configure your own private GitHub
-repository for referencing and committing changes. Your private repository
+repository for referencing and committing changes.  Your private repository
 will also be a mirror of the upstream class repository.
 
  1. Create the private repository as a new repository on GitHub. Follow steps 1
@@ -92,7 +92,7 @@ will also be a mirror of the upstream class repository.
     adhering to the following:
 
     - Create the repository under your GitHub user ("USERNAME"), and name the
-      repository according to PRIVATE_REPO_NAME (Step 2).
+      repository according to PRIVATE\_REPO\_NAME (Step 2).
     - Make sure the visibility of the repository is _Private_ (Step 4).
     - Do _not_ check the box "Initialize this repository with a README" (Step 5).
 
@@ -133,7 +133,7 @@ will also be a mirror of the upstream class repository.
     $ git clone ssh://git@github.com/USERNAME/PRIVATE_REPO_NAME
     ```
 
-    (Substitute "USERNAME" with your GitHub username and "PRIVATE_REPO_NAME"
+    (Substitute "USERNAME" with your GitHub username and "PRIVATE\_REPO\_NAME"
     with the name of your private repository.)
 
 
@@ -148,6 +148,7 @@ will also be a mirror of the upstream class repository.
     (Substitute "PRIVATE\_REPO\_NAME" with the name of your private repository,
     "CLASS\_REPO\_USERNAME" with the username of the class repository's owner (usually cdeccio),
     and "CLASS\_REPO\_NAME" with the name of the upstream class repository.)
+
 
 ## Update Your Mirrored Repository from the Upstream
 
